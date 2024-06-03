@@ -34,3 +34,9 @@ VR
 
 2D / 3D
 - https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
+
+<img width="1292" alt="Capture d’écran 2024-06-03 à 07 37 38" src="https://github.com/Boyquotes/awesome_enable3d/assets/417514/ffe72e4f-5363-4c3f-a7e2-b9fad52f9714">
+- https://enable3d.io/examples/water.html
+- https://enable3d.io/examples/first-person-shooter.html
+<img width="1203" alt="Capture d’écran 2024-06-03 à 07 39 09" src="https://github.com/Boyquotes/awesome_enable3d/assets/417514/7de8927a-d90d-4e9e-8442-8509d363d80c">
+
