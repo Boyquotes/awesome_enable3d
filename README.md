@@ -17,6 +17,11 @@
 
 - https://github.com/Mipppy/web-physics
 
+- https://github.com/BrunoAngeloti/MB-RocketLeague
+- https://brunoangeloti.github.io/MB-RocketLeague/
+<img width="2185" alt="mb-rocket-league" src="https://github.com/Boyquotes/awesome_enable3d/assets/417514/5b4dc0e6-549e-40ad-98d6-c27353527c2d">
+
+
 - https://github.com/Game3DEE/adoom
 - https://game3dee.github.io/adoom/
 ![adoom](https://github.com/Boyquotes/awesome_enable3d/assets/417514/a57d41ac-8be0-4359-854b-b00419115b39)
